@@ -2,7 +2,7 @@
 
 **Link To Site**: [https://epic-bardeen-e92272.netlify.app/](https://epic-bardeen-e92272.netlify.app/)
 
-Frontend landing page design for a possible bitcoin mining company.
+Frontend landing page design for a possible bitcoin mining company. Design choices were made to capture a potential investors attention. Follows the formula of a quick summary of services, a 2x2 grid with pictures, famous quotes, and a message from the CEO. 
 
 **Built using**:
 - React
